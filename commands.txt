@@ -1,0 +1,2 @@
+gitinit
+git commit -m "Type your message here"
