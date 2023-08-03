@@ -1,1 +1,3 @@
 Added 5th feature and last feature of the project.
+
+The new update will be added here soon once it comes from QA.
