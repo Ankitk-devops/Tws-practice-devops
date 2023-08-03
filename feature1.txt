@@ -1,1 +1,5 @@
 This is the first feature of the App.
+
+The code has some bugs and mistakes.
+
+Bug identified here due to bad code.
